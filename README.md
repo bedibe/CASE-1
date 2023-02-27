@@ -1,1 +1,2 @@
-# CASE-1
+# Checklist-Travel
+Projeto Final Individual - Case 1
